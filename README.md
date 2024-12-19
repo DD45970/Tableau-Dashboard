@@ -12,8 +12,7 @@ Created interactive and dynamic dashboards for deeper data exploration.
 
 Technologies Used
 Tableau: For data visualization and dashboard creation.
-Dataset: [Include details about your dataset, e.g., CSV file with sales and customer data].
-Microsoft Excel: For initial data preprocessing and cleanup (if applicable).
+Microsoft Excel: For initial data preprocessing and cleanup.
 
 Key Insights
 Customer purchasing behavior varies significantly by region and age group.
