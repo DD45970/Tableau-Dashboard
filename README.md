@@ -1,5 +1,7 @@
 Customer Analysis Dashboard
+
 Overview
+
 This project involves creating an interactive Customer Analysis Dashboard using Tableau to gain insights into customer behavior, purchasing patterns, and trends. The goal is to provide actionable insights to improve business decisions and enhance customer satisfaction.
 
 Features
@@ -46,4 +48,4 @@ For any questions or feedback, feel free to reach out:
 
 Name: Darshan Dhamode
 Email: darshandhamode@gmail.com
-LinkedIn: Your LinkedIn Profile
+
